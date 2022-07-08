@@ -1,0 +1,19 @@
+# Project exclude paths
+/.gradle/
+/Simple Chatty Bot/task/build/
+/Simple Chatty Bot/task/out/
+/Simple Chatty Bot/task/out/production/classes/
+/Topics/Characters/A capital letter or a digit/out/
+/Topics/Characters/A capital letter or a digit/out/production/classes/
+/Topics/Characters/Previous character/out/
+/Topics/Characters/Previous character/out/production/classes/
+/Topics/For loop and ranges/Check the order/out/
+/Topics/For loop and ranges/Check the order/out/production/classes/
+/Topics/For loop and ranges/Fizz Buzz/out/
+/Topics/For loop and ranges/Fizz Buzz/out/production/classes/
+/Topics/For loop and ranges/The minimum value of N numbers/out/
+/Topics/For loop and ranges/The minimum value of N numbers/out/production/classes/
+/Topics/Working with strings/N-th symbol/out/
+/Topics/Working with strings/N-th symbol/out/production/classes/
+/Topics/Working with strings/Name Card/out/
+/Topics/Working with strings/Name Card/out/production/classes/
